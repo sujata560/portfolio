@@ -71,7 +71,7 @@ const time = document.querySelector(".time")
 
 
   const typed = new Typed('.multiple-text',{
-    strings: ['DSW-Student' , 'Nail-Technician'],
+    strings: ['DSW-Student'],
     typeSpeed:70,
     backSpeed:70,
     backDelay:1000,
