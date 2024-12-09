@@ -112,22 +112,23 @@ nav ul li a:hover::after{
 
 .row{
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     flex-wrap: wrap;
 }
 
 
-.about-col-1{
+/* .about-col-1{
     flex-basis: 35%;
-}
+} */
 
 .about-col-1 img{
     width: 100%;
     border-radius: 15px;
+    margin: 0 auto;
 }
 
 .about-col-2{
-    flex-basis: 60%;
+    flex-basis: 100%;
 
 }
 
